@@ -3,6 +3,7 @@ content_type: resource
 description: Midterm exam on transportation systems analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/75f5aad063e2a28e118804b9aee48034_MIT1_201JF08_midterm.pdf
 file_type: application/pdf
+parent_uid: d07e7cf7-851b-fa90-9694-67a43405b492
 resourcetype: Document
 title: Midterm Exam
 uid: 75f5aad0-63e2-a28e-1188-04b9aee48034
